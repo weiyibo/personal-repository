@@ -10,6 +10,10 @@ public class test {
 		SYstem.out.println("william123");
 		System.out.println("william second");
 		william third
+<<<<<<< HEAD
+>>>>>>> william
+=======
+		william 4
 >>>>>>> william
 	}
 }
