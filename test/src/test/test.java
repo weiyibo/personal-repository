@@ -6,6 +6,7 @@ public class test {
 	public static void main(){
 		System.out.println("dasdasda");
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 		SYstem.out.println("william123");
 		System.out.println("william second");
@@ -15,5 +16,11 @@ public class test {
 =======
 		william 4
 >>>>>>> william
+=======
+		System.out.println("anson print");
+
+		anson anson
+
+>>>>>>> anson
 	}
 }
